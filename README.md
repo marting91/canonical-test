@@ -23,3 +23,5 @@ yarn dev
 npm run dev
 ```
 This will start the Vite development server, and you can access the project tipically at `http://localhost:5173` (check in the terminal) in your web browser.
+
+You can see this project live at: https://mg-canonical-home-test.netlify.app/
